@@ -9,7 +9,7 @@ int maxWaterlv = 255;
 int minSoil = 0;
 int maxSoil = 255;
 
-String id_User = "1";
+String id_User = 1;
 id_product = "1";
 
 unsigned long lastMillis = 0;

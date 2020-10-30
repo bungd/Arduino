@@ -11,7 +11,7 @@ int maxSoil = 255;
 
 String id_User = 1;
 id_product = "1";
-
+*/
 unsigned long lastMillis = 0;
 unsigned long lastMillis1 = 0;
 const long interval = 10000; // interval at which to blink (milliseconds)
